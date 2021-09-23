@@ -1,4 +1,4 @@
-# Convert cifar-10 dataset to normal dataset for Keras ImageDataGenerator 
+# Convert cifar-10 dataset to images dataset for using tf.keras.preprocessing.image.ImageDataGenerator.flow_from_directory  
 Download the data here : https://www.cs.toronto.edu/~kriz/cifar.html  
 Extract the zip file and move it to the folder.  
 Create the cifar-10 folder.  
